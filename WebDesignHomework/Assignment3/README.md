@@ -11,4 +11,4 @@ This semester is already too long and confusing as I'm only taking one class tha
 
 [Favorite song at the moment](https://www.youtube.com/watch?v=Bn-3ICGjz0U&ab_channel=TheWeekndVEVO)
 
-![A silly cat](https://www.reddit.com/r/cats/comments/zhgcf4/silly_cat/?rdt=45956)
+![A silly cat](https://x.com/Catsillyness/status/1816922291478946234)
