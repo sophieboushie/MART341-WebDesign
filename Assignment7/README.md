@@ -1,1 +1,0 @@
-I'm the most proud about getting the text input set up. I really thought I would struggle but I had a lot of fun learning about and applying the techniques. The layout of my page makes sense to me but I know it could "look" better, but it is supposed to be a personal blog so I just did what I liked. Things are fine!
