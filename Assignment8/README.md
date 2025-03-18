@@ -1,0 +1,1 @@
+I used divs to keep my media in order, spans to make the paragraphs pop and class to seperate each piece of media.
