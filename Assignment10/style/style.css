@@ -1,0 +1,61 @@
+body {
+    background-color: rgb(109, 212, 95);
+    font-family: Arial;
+ }
+ 
+ /* Text Styling: */
+ h1, h2, p {
+    color: white;
+ }
+ 
+ p {
+    border: 2px dotted rgb(0, 17, 17);
+ }
+ body{
+    font-family: Arial, Verdana, Tahoma;
+  }
+  /* Select the main container 'div' element */
+  .main-container {
+      /* Draw a lime green border 2px thick. */
+      border-style: solid;
+      border-width: 2px;
+      border-color: limegreen;
+      /*Add space between the boarder and its inside elements. */
+      padding: 10px;
+      /* Color the background dark grey. */
+      background: #373E42;
+  }
+  
+  /* Select all h1 elements. */
+  h1 {
+      /* Draw an orange border 2px thick around ONLY the h1 element. */
+      border-style: solid;
+      border-width: 2px;
+      border-color: rgb(0, 0, 0);
+      /* Set a unique background color. */
+      background: #776192;
+  }
+  
+  /* Select ALL paragraph elements. */
+  p {
+      border-style: solid;
+      border-width: 2px;
+      border-color: rgb(0, 0, 0);
+      background: #776192;
+  }
+  
+  /* Select the strong AND emphasized elements. */
+  strong, em {
+      border-style: solid;
+      border-width: 2px;
+      border-color: rgb(0, 0, 0);
+  }
+  
+  /* Select ONLY the emphasized elements. */
+  em {
+      color: rgb(0, 0, 0);
+  }
+  
+  hr {
+    margin: 30px 0;
+  }
