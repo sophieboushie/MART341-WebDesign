@@ -1,5 +1,0 @@
-- CSS
-- Hover effect
-- Font styles
-- Spacing
-- Pseudo-classes
