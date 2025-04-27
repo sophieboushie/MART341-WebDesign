@@ -1,0 +1,1 @@
+I made 4 pages for a fake restaurant, "The Cheeky Chef." I used internal CSS for the home page, and external CSS for the rest of the pages. Figuring out the dropdown menu was a bit difficult but I got it working! 

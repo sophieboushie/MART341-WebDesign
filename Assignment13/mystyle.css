@@ -1,0 +1,122 @@
+body {
+    background-color: rgb(255, 248, 240); /* Soft creamy background */
+    font-family: 'Arial', sans-serif;
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+    color: #333; /* Nice dark gray text */
+  }
+  
+  /* Header */
+  header {
+    background-color: #ff704d; /* Bright cheeky orange */
+    color: white;
+    text-align: center;
+    padding: 20px 10px;
+  }
+  
+  /* Navigation */
+  nav {
+    background-color: #ffccbc;
+    text-align: center;
+    padding: 10px 0;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    margin: 0 15px;
+    font-size: 18px;
+  }
+  
+  .dropdown {
+    display: inline-block;
+    position: relative;
+  }
+  .dropbtn {
+    background-color: #ffccbc;
+    color: #333;
+    padding: 14px 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #ffe0b2;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  .dropdown-content a {
+    color: #333;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+  .dropdown-content a:hover {
+    background-color: #ffd180;
+  }
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  .dropdown:hover .dropbtn {
+    background-color: #ffd180;
+  }
+  
+  /* Main content */
+  main {
+    padding: 20px;
+  }
+  main img {
+    margin: 10px;
+    border-radius: 10px;
+  }
+  /* Section headings (Menu titles) */
+  main h2 {
+    color: #ff704d;
+    border-bottom: 2px solid #ff704d;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+  }
+  
+  /* Menu list items */
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+    font-size: 17px;
+  }
+  
+  /* Footer */
+  footer {
+    background-color: #ff704d;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+  }
+  
+  /* Responsive styles for small screens */
+  @media (max-width: 600px) {
+    body {
+      background-color: lightgray;
+      font-size: 16px;
+    }
+  
+    nav a {
+      display: block;
+      margin: 10px 0;
+    }
+  
+    main {
+      padding: 10px;
+    }
+  }
